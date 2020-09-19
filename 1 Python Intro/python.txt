@@ -1,0 +1,9 @@
+Python is high level programming language.
+Interpreter reads code line by line.
+Complier reads all code in one go and excute it.
+Terminal  cmd
+Code Edictors: VS Code.
+IDE PyCharm.
+Notebook: Jupyter.
+It assists in Developer Productivity.
+repl.it online or glot.io

@@ -1,3 +1,5 @@
+#
+2. Python Introduction.
 Python is high level programming language.
 Interpreter reads code line by line.
 Complier reads all code in one go and excute it.
@@ -7,3 +9,10 @@ IDE PyCharm.
 Notebook: Jupyter.
 It assists in Developer Productivity.
 repl.it online or glot.io
+#
+3. Pythons Basics
+Datatype: what sort of data a origram hold
+1). Terms.
+2).Datatypes.
+3). Actions.
+4). Best pratices of writing Python code. 
